@@ -1,0 +1,90 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 375px;
+    font-family: "Source Sans 3", sans-serif;
+}
+
+body {
+    box-shadow: 0px 0px 4px #c5c5c5;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 67px;
+    border-bottom: 3px solid #c5c5c5;
+}
+
+h1, h2 {
+    margin: 0 0 0 8px;
+}
+
+h1 {
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.logo {
+    width: 127px;
+    margin-left: 15px;
+    object-fit: contain;
+}
+
+.user-avatar, .post-maker-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
+
+.user-avatar {
+    margin: 16px 16px 17px 0;
+}
+
+.post-content {
+    border-bottom: 25px solid #ededed;
+}
+
+.post-header {
+    padding: 10px;
+    display: flex;
+}
+
+.post-maker-info {
+    line-height: 16px;
+    padding-top: 2px;
+}
+
+.post-image {
+    width: 100%;
+}
+
+.post-body {
+    padding: 20px 20px 15px 10px;
+}
+
+.interaction-icon {
+    width: 23px;
+    margin-right: 10px;
+}
+
+.interaction-icon:hover {
+    opacity: 50%;
+}
+
+.likes-count, .post-caption {
+    margin: 0 0 8px 4px;
+    font-size: 14px;
+}
+
+.likes-count, .post-maker-uid {
+    font-weight: 900;
+}
+
+.likes-count {
+    display: inline-block;
+}
