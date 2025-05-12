@@ -10,6 +10,6 @@
 - The importance of Semantic HTML
 - Dynamic Rendering using JavaScript.
 
-  #### Links to both pages are down below:
-  - [Basic Page](https://oldagram-svp.netlify.app/basic/) (Static HTML)
-  - [Advanced Page](https://oldagram-svp.netlify.app/advanced/) (Rendered using JS)
+#### Links to both pages are down below:
+- [Basic Page](https://oldagram-svp.netlify.app/basic/) (Static HTML)
+- [Advanced Page](https://oldagram-svp.netlify.app/advanced/) (Rendered using JS)
